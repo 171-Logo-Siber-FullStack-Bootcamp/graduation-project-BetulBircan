@@ -15,9 +15,15 @@
                 <div class="modal-body" >
                     <img v-bind:src="parentmessage.imageurl" style="height:275px; width:450px">
                     <br>
+                    <br>
+                    {{parentmessage.description}}
+                    <br>
+                    <br>
                     Sayfa Sayısı: {{ parentmessage.pagecount }}
                     <br>
+                    <br>
                     Yayınevi: {{parentmessage.publisher}}
+                    <br>
                     <br>
                     Fiyatı: {{ parentmessage.price}}.00 TL
                     

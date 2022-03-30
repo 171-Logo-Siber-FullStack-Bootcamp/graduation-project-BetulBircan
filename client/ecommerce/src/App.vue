@@ -7,16 +7,19 @@
     <!-- Navbar Start -->
     <NavBarVue />
     <!-- Navbar End -->
+
+     <!-- Products Start -->
+
+  <NewBooks />
+
+    <!-- Products End -->
+
 <!-- AllBools -->
     <CardBooks />
     <!--  -->
 
 
-    <!-- Products Start -->
-
-  <NewBooks />
-
-    <!-- Products End -->
+   
     
 
 

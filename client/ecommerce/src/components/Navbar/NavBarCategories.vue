@@ -66,8 +66,18 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 li{
   cursor: pointer;
 }
+li:hover {
+font-size: 15px;
+text-decoration: underline;
+text-decoration-color: indianred;
+}
+
+li:focus {
+  text-decoration-color: blue;
+}
+
 </style>

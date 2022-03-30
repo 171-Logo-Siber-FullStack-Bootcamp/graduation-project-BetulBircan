@@ -107,5 +107,12 @@ CardModal
 };
 </script>
 
-<style>
+<style lang="scss" scoped>
+.card-img-top {
+margin-right: auto;
+      margin-left: auto;
+    
+  width:208px;
+    height: 307px;
+}
 </style>
