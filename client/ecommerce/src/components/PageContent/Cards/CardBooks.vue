@@ -115,4 +115,8 @@ margin-right: auto;
   width:208px;
     height: 307px;
 }
+.card-title{
+  width: 168px;
+  height: 64.8px;
+}
 </style>
