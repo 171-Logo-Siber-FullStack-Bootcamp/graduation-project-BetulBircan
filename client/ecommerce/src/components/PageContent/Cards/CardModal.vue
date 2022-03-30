@@ -15,7 +15,11 @@
                 <div class="modal-body" >
                     <img v-bind:src="parentmessage.imageurl" style="height:275px; width:450px">
                     <br>
-                    {{ parentmessage.price}}.00 TL
+                    Sayfa Sayısı: {{ parentmessage.pagecount }}
+                    <br>
+                    Fiyatı: {{ parentmessage.price}}.00 TL
+                    
+                    
                 </div>
                 
                 <!-- Modal footer -->
