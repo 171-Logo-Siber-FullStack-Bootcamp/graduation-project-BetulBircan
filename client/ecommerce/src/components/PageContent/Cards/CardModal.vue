@@ -17,6 +17,8 @@
                     <br>
                     Sayfa Sayısı: {{ parentmessage.pagecount }}
                     <br>
+                    Yayınevi: {{parentmessage.publisher}}
+                    <br>
                     Fiyatı: {{ parentmessage.price}}.00 TL
                     
                     
