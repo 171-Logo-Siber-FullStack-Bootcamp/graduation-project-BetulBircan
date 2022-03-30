@@ -17,22 +17,25 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PSQL TABLOLARI
 
+Veri tabanında books tablosunda category_id ile authors_id alanşları authors ve categories tablolarıyla ilişkilendirilmiştir.
+
 **books tablosu**
 
-![bookstable](https://user-images.githubusercontent.com/86554799/160769436-941f4183-e310-4acd-9100-8e9fb94119fd.jpg)
+![books](https://user-images.githubusercontent.com/86554799/160821056-6b9429a4-caaf-4201-8102-0f95f4d9964a.jpg)
 
 **categories tablosu**
 
-![categories](https://user-images.githubusercontent.com/86554799/160769873-6595b3a1-f263-4ec8-b1d6-838ae299199d.jpg)
+![categories](https://user-images.githubusercontent.com/86554799/160821179-b1892d80-25e4-42a9-8c08-b49134d10cbf.jpg)
 
 **authors tablosu **
 
-![authors](https://user-images.githubusercontent.com/86554799/160769942-40a01d0d-a209-47a9-9b59-488dee529c50.jpg)
+![authors](https://user-images.githubusercontent.com/86554799/160821450-d33bc6ca-e481-4dda-8d84-88973c820ffa.jpg)
 
 ## Sonucu
 
-![sonuc1](https://user-images.githubusercontent.com/86554799/160770157-04084108-f275-4b32-bc58-108babc16010.jpg)
+![sonuc1](https://user-images.githubusercontent.com/86554799/160822203-edc95ccf-04ee-4a6f-b2ac-04e01bc6c50f.jpg)
 
-## Kişisel Gelişim Kitaplarını Sıralama
+![allbooks](https://user-images.githubusercontent.com/86554799/160822486-75228db1-c0a6-44ce-b208-7541ac6ee38e.jpg)
 
-![kişisel gelişim](https://user-images.githubusercontent.com/86554799/160770742-d113f48f-5dcc-4bcb-b922-f4fdce5811c7.jpg)
+![detail](https://user-images.githubusercontent.com/86554799/160822541-1ab45833-a7bd-40c7-9a72-604e9ade69c5.jpg)
+
